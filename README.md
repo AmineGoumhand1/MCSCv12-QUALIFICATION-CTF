@@ -438,7 +438,7 @@ and 4th value = 7720 (in the image)
 
 as given in the pdftotext puzzle the pastbin code is 137578254019200000 (1080*1350*7720*12222920)
 
-Enter the pass to the pastbin url []('https://pastebin.com/8328TTnF') will unlock the flag
+Enter the pass to the pastbin url [url]("https://pastebin.com/8328TTnF") will unlock the flag
 
 > flag : `MCSC{Congr4ts_j0in1n9_u5}`
 
@@ -639,7 +639,7 @@ the last part flag is `6c34737420706172743a2067753159755f73346e5f77336c63306d335
 **AND SORRY FOR ANY UNCLEAR THINGS**
 
 ### LEGITE
-This is implementing a VBA Stomping technique, read more [vba-stomping]('https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://attack.mitre.org/techniques/T1564/007/&ved=2ahUKEwjW8Omrx5GMAxWnRKQEHVa1IJsQFnoECBYQAQ&usg=AOvVaw1f9cjh384djYPzxu2-r3Bx').
+This is implementing a VBA Stomping technique, read more [vba-stomping](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://attack.mitre.org/techniques/T1564/007/&ved=2ahUKEwjW8Omrx5GMAxWnRKQEHVa1IJsQFnoECBYQAQ&usg=AOvVaw1f9cjh384djYPzxu2-r3Bx).
 
 you are given an xlsm file that has macros. the tool u should use is olevba.
 
