@@ -438,14 +438,14 @@ and 4th value = 7720 (in the image)
 
 as given in the pdftotext puzzle the pastbin code is 137578254019200000 (1080*1350*7720*12222920)
 
-Enter the pass to the pastbin url [url]("https://pastebin.com/8328TTnF") will unlock the flag
+Enter the pass to the pastbin url [url](https://pastebin.com/8328TTnF) will unlock the flag
 
 > flag : `MCSC{Congr4ts_j0in1n9_u5}`
 
 
 ### The Hidden Gold
 
-You are given an image, apparently is a stego chall, as hinted it has a twin so looking for the original image. you can find it by typing `levi wallpaper` in google, then you'll come across this [website](https://c4.wallpaperflare.com/wallpaper/359/641/175/anime-attack-on-titan-levi-ackerman-wallpaper-preview.jpg)
+You are given an image, apparently is a stego chall, as hinted it has a twin so looking for the original image. you can find it by typing `levi wallpaper` in google, then you'll come across this [website](https://www.bhmpics.com/download.php?file=/downloads/Levi-Wallpapers-/1.753277.png)
 
 Now you have the twins, go to StegSolve to xor them or use python, this will give you the black image output but some pixels are not, and that's the flag.
 ![alt text](image-10.png)
